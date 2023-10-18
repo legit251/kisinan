@@ -1658,6 +1658,11 @@ http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/298516
 #EXTINF:0 tvg-id="FLIKID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE_RshNZ-RVYw2fxklkd-uy2qI3XIra1dFJA&usqp=CAU" group-title="MOVIES",FLiK
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/165095
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="Animax" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax Asia
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
 ==================TV DAERAH===============
 
 
