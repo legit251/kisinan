@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U billed-msg="KIW KIW CUKURUKUK EMPUK JERU"
 
 ==============FTA NASIONAL=================
 
