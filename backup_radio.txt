@@ -94,7 +94,7 @@ https://streaming.ozradio.id:8443/ozbandung
 http://i.klikhost.com:8332/;stream.nsv
 
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://static.wixstatic.com/media/f66dc6_9dc6cbfe361c4cb0bddbe39262ec761d~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/f66dc6_9dc6cbfe361c4cb0bddbe39262ec761d~mv2.png",Prambors FM 102.2 Jakarta
-http://103.24.105.90:9300/pjkt
+https://stream.rcs.revma.com/h77wwp48kxcwv
 
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.noiceid.cc/catalog/300x300/content-1692814156465",Radio Pelita Kasih
 https://streaming.classynetradio.com:8040/rpkfm
